@@ -1,2 +1,2 @@
 # Using-AWS-inbuilt-Functions
-XGBoost and k-means, PCS
+XGBoost and k-means, PCA
